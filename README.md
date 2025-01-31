@@ -7,6 +7,6 @@
 - 💞️ I’m looking to collaborate on Linuxy oss projects!
 - 📫 How to reach me luna@lunazhu.top
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I love you george!
+- ⚡ Fun fact: I love you opaltic!
 
 Skills: PYTHON/RUST/JAVASCRIPT
